@@ -1,5 +1,13 @@
-## Hi there 👋
+<h2 align="left">Stats</h2>
 
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Balaciano&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Balaciano&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
 <!--
 **Balaciano/Balaciano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
