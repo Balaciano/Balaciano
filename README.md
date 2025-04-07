@@ -1,4 +1,5 @@
-<# About Me ⊹ ˖
+# About Me ⊹ ˖
+
 Hi, how are you? 
 My name is João Pedro Balaciano, and I’m a Computer Science student at UFF. I chose this major because, since I was a child, I’ve always been curious about how websites, apps, and robots work. Currently, I work as a Front-End Developer, Product Owner, and Project Director at IN Junior — the junior tech company from my university, where we develop real solutions for real clients. I believe we’re doing a great job, as around 90% of our projects have a meaningful impact on society. I have experience with Python, JavaScript, and C, but the language I use the most nowadays is TypeScript.
 
